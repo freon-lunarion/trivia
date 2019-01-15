@@ -1,3 +1,10 @@
 venv/*
 migrations/*
 .vscode/*
+*/__pycache__/*
+app/__pycache__/*
+app/main/__pycache__/*
+app/main/service/__pycache__/*
+app/main/controller/__pycache__/*
+app/main/util/__pycache__/*
+*.db
